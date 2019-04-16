@@ -1,0 +1,1 @@
+# cluster-proportional-autoscaler-amd64
